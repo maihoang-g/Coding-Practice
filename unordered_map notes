@@ -26,8 +26,6 @@ int main() {
   
 
   // search
-  myMap.find(3);
-  myMap.find(10);
   
   // delete
 
